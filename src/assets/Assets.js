@@ -3,11 +3,11 @@ import profile2 from "./WhatsApp Image 2024-08-07 at 23.49.43_70b652cc.jpg"
 import profile3 from "./WhatsApp Image 2024-08-07 at 23.50.51_9c6acc9e.jpg"
 import profile4 from "./Screenshot_2024-02-11-14-28-41-236_com.instagram.android-edit.jpg"
 import profile5 from "./WhatsApp Image 2024-08-10 at 15.41.39_0ae7b1b4.jpg"
-import  reactImage  from "./react-image.png"
+import reactImage from "./react-image.png"
 import reactLogo from "./react-logo.png"
-import nodeJsImage  from "./noteJs-image.jpeg"
-import nodeJsLogo  from "./nextJs-image.jpeg"
-import nextJsLogo  from "./nextJs-logo.jpeg"
+import nodeJsImage from "./noteJs-image.jpeg"
+import nodeJsLogo from "./nextJs-image.jpeg"
+import nextJsLogo from "./nextJs-logo.jpeg"
 import nextJsImage from "./nextJs-image.jpeg"
 import tailwinsCssImage from "./tailwindCss-image.jpeg"
 import tailwinsCssLogo from "./tailwindCss-logo.png"
@@ -27,12 +27,13 @@ import react1 from "./obzor-frejmvorka-react.js-serverspace.webp"
 import react2 from "./premium_photo-1663100722417-6e36673fe0ed.jpeg"
 import react3 from "./high-resolution-image.jpg"
 import react4 from "./wallpapersden.com_python-hack-the-world_1920x1080.jpg"
+import profile6 from "./profile_pics.png"
 
 
 
 
 
-export  const asset = {
+export const asset = {
      profile1,
      profile2,
      profile3,
@@ -62,9 +63,10 @@ export  const asset = {
      react2,
      react3,
      react4,
+     profile6,
 
 
 
-     
-     
+
+
 }
